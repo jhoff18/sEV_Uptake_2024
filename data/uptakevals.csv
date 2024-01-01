@@ -1,0 +1,25 @@
+﻿,X-Clathrin-CEC,X-Macropinocytosis-CEC,X-Caveolae/Lipid Raft-CEC,X-Clathrin -RCF,X-Macropinocytosis-RCF,X-Caveolae/Lipid Raft-RCF
+CPC.A.Normoxia,0.18,0,0.02,0.31,-0.01,0.02
+CPC.B.Normoxia,0.38,0.08,0.1,0.28,-0.01,-0.02
+CPC.C.Normoxia,-0.04,0.07,0.11,0.05,-0.03,0.04
+CPC.A.Hypoxia,0.17,-0.2,0.05,0.29,-0.16,0
+CPC.B.Hypoxia,0.45,0.11,0.14,0.29,0,-0.02
+CPC.C.Hypoxia,0.2,0.1,0,-0.04,-0.19,0.1
+MSC.D.Normoxia,0.54,-0.315,0.13,0.508,0.093,0.136
+MSC.E.Normoxia,0.442,-0.18,0.089,0.488,0.099,0.14
+MSC.F.Normoxia,0.575,-0.189,0.23,NA,NA,NA
+MSC.D.Hypoxia,0.563,-0.249,0.179,0.522,0.092,0.137
+MSC.E.Hypoxia,0.455,-0.163,0.11,0.532,0.091,0.144
+MSC.F.Hypoxia,0.549,-0.316,0.166,NA,NA,NA
+CEC.D.Normoxia,0.705,0.178,0.209,0.544,0.097,0.297
+CEC.E.Normoxia,0.688,0.187,0.221,0.516,0.1,0.28
+CEC.F.Normoxia,0.29,-0.164,-0.003,0.453,0.19,0.35
+CEC.D.Hypoxia,0.706,0.17,0.207,0.453,-0.005,0.27
+CEC.E.Hypoxia,0.703,0.198,0.226,0.479,0.099,0.281
+CEC.F.Hypoxia,0.3,-0.17,0,0.476,0.192,0.359
+RCF.A.Normoxia,0.809,0.182,0.141,0.478,0.194,0.354
+RCF.B.Normoxia,0.616,0.144,0.438,0.283,-0.006,-0.021
+RCF.C.Normoxia,0.601,0.144,0.429,0.297,-0.001,-0.019
+RCF.A.Hypoxia,0.725,0.099,0.071,0.476,0.195,0.357
+RCF.B.Hypoxia,0.61,0.14,0.421,0.292,-0.001,-0.019
+RCF.C.Hypoxia,0.583,0.147,0.424,0.297,-0.001,-0.019
